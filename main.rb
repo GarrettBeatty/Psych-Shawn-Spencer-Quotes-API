@@ -31,7 +31,6 @@ quotes = [
 	"Gus, don't be Nic Cage's accent from Con Air",
 	"Gus, don't be Topher Grace running on the beach at the end of 'In Good Company'.",
 	"Gus, don't be the ten tigers of Canton.",
-	"Jules, don't be Canada.",
 	"Gus, don't be George Hamilton's reaction when Ashley came to him and said 'Dad, I think I'll become an actor, too'.",
 	"Gus, don't be the second drummer from 38 Special.",
 	"Gus, don't be the one game at Chuck E. Cheese that isn't broken.",
