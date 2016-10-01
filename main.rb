@@ -1,6 +1,8 @@
 require 'sinatra'
 require 'json'
 
+set :protection, :except => [:json_csrf]
+
 quotes = [
 	"Gus, don't be ridiculous.",
 	"Gus, don't be a silly goose.",
