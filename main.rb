@@ -44,14 +44,14 @@ quotes = [
 	"Gus, don't be the mystery mouske-tool." ,
 	"Gus, don't be Pete Rose’s haircut.",
 	"Gus, don't be Lao Che.",
-	"Gus, Don´t be the B from Apartment 23",
-	"Gus don´t be the remake of Yours, Mine and Ours. While I am at it, don´t be the original either.",
-	"Gus, don´t be the second time I´ve ever saw your face.",
-	"Gus, don´t be Weepy Boy Santos.",
-	"Gus, Don´t be the kites up on strings.",
-	"Gus, Don´t be the very model of a modern major general.",
-	"Gus, don´t be The Howling to Your sister´s a Werewolf",
-	"Gus, don´t be the 100th Luftballoon."
+	"Gus, Don't be the B from Apartment 23",
+	"Gus don't be the remake of Yours, Mine and Ours. While I am at it, don't be the original either.",
+	"Gus, don't be the second time I've ever saw your face.",
+	"Gus, dont be Weepy Boy Santos.",
+	"Gus, Don't be the kites up on strings.",
+	"Gus, Don't be the very model of a modern major general.",
+	"Gus, don't be The Howling to Your sister's a Werewolf",
+	"Gus, don't be the 100th Luftballoon."
 ]
 
 
