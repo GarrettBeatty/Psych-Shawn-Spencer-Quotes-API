@@ -55,7 +55,7 @@ quotes = [
 
 
 
-get '/quote' do
+get '/' do
 	content_type :json
 	{ :quote => quotes.sample, :author => 'Shawn Spencer' }.to_json
 end
